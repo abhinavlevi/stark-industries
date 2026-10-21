@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" width="100%" height="100%">
+  <rect width="320" height="72" fill="#091E3A"/>
+  
+  <g transform="skewX(-14)" fill="#FFFFFF">
+    <!-- Top Horizontal Overline Bar extending into the Chevron Wing -->
+    <path d="M 20 8 L 295 8 L 225 58 L 202 58 L 265 14 L 20 14 Z" />
+
+    <!-- STARK text: Wide Extended Bold Italic -->
+    <text x="22" y="38" font-family="'Bank Gothic', 'Eurostile', 'Chakra Petch', 'Arial Black', sans-serif" font-weight="900" font-size="28" letter-spacing="1">
+      STARK
+    </text>
+
+    <!-- INDUSTRIES text: Wide Extended Bold Italic -->
+    <text x="24" y="58" font-family="'Bank Gothic', 'Eurostile', 'Chakra Petch', 'Arial Black', sans-serif" font-weight="900" font-size="14" letter-spacing="3">
+      INDUSTRIES
+    </text>
+
+    <!-- The Delta Chevron Wing on the right -->
+    <!-- Formed by the top horizontal bar (y=8 to 14) and the diagonal down-left stroke meeting at the sharp point (x=295, y=8) -->
+    <!-- The outer diagonal runs from (295, 8) down to (185, 62) -->
+    <!-- The inner diagonal runs from (265, 14) down to (200, 56) -->
+    <path d="M 185 60 L 295 8 L 270 8 L 170 56 Z" />
+  </g>
+</svg>

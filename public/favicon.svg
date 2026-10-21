@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <!-- Stark Dark Navy Background with Rounded Corners -->
+  <rect width="128" height="128" rx="28" fill="#081C36"/>
+  <rect x="1.5" y="1.5" width="125" height="125" rx="26.5" stroke="#00D9FF" stroke-opacity="0.35" stroke-width="3"/>
+  
+  <!-- Subtle Arc-Reactor Core Ring -->
+  <circle cx="64" cy="64" r="46" stroke="#00D9FF" stroke-width="1.5" stroke-dasharray="8 4" stroke-opacity="0.4"/>
+  <circle cx="64" cy="64" r="34" stroke="#53B8FF" stroke-width="1" stroke-opacity="0.5"/>
+  
+  <!-- Stark Industries Iconic Chevron Arrow / Wing in Pure White -->
+  <g transform="translate(18, 28) scale(0.72)">
+    <!-- Top Horizontal Line -->
+    <path d="M 6 12 L 120 12 L 84 64 L 68 64 L 100 18 L 6 18 Z" fill="#FFFFFF"/>
+    <!-- Diagonal Lower Wing -->
+    <path d="M 68 64 L 84 64 L 120 12 L 104 12 Z" fill="#00D9FF"/>
+    <!-- Stylized SI Monogram -->
+    <text x="8" y="56" font-family="'Bank Gothic', 'Arial Black', sans-serif" font-weight="900" font-size="44" fill="#FFFFFF" font-style="italic">
+      SI
+    </text>
+  </g>
+</svg>

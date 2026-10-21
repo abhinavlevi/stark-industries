@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 95" width="100%" height="100%">
+  <rect width="400" height="95" fill="#091E3A"/>
+  
+  <g transform="skewX(-15)" fill="#FFFFFF">
+    <!-- Top Horizontal Connecting Bar that runs into the chevron -->
+    <path d="M 28 14 L 335 14 L 382 38 L 245 82 L 285 46 L 28 46 Z" opacity="0" />
+    
+    <!-- STARK text: Bold condensed geometric italic -->
+    <text x="32" y="44" font-family="'Impact', 'Arial Black', 'Helvetica Neue', sans-serif" font-weight="900" font-size="34" letter-spacing="1.5">
+      STARK
+    </text>
+
+    <!-- INDUSTRIES text: Bold wide italic -->
+    <text x="34" y="74" font-family="'Impact', 'Arial Black', 'Helvetica Neue', sans-serif" font-weight="900" font-size="19" letter-spacing="4.5">
+      INDUSTRIES
+    </text>
+
+    <!-- Iconic Chevron Wing framing the right side -->
+    <!-- Top line running horizontally, sharp acute point on right, slanting down-left -->
+    <path d="M 185 14 L 350 14 L 388 38 L 265 80 L 298 44 L 200 44 Z" />
+    
+    <!-- Inner negative-space cutout that hollows out the chevron -->
+    <path d="M 270 21 L 340 21 L 368 38 L 282 66 L 298 40 L 255 40 Z" fill="#091E3A" />
+  </g>
+</svg>
